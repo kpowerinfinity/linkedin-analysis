@@ -12,5 +12,5 @@ mkdir linkedin-analysis
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
-python linkedin-analysis.py --help
+python linkedin_analysis.py --help
 ```
