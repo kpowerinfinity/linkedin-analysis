@@ -9,6 +9,7 @@ To export LinkedIn data, visit [this link](https://www.linkedin.com/psettings/me
 ```
 mkdir linkedin-analysis
 <download and unzip the member data in this directory>
+mv <LINKED_IN_DATA_DIR> exported
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
